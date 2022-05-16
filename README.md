@@ -1,2 +1,2 @@
 # School_Districts_Analysis
-jupyter
+Assignment attached. Will complete rest of challenge to come up with conclusion 
